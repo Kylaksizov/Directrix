@@ -4,7 +4,7 @@ Directrix jquery plagin
 Query плагин для парвильной попиксельной вёрстки сайтов.
 Плагин помогает выставить быстрые направляющие прямо в браузере.
 
-<h2><a href="http://kylaksizov.ru/demo/7/" target="_blank">DEMO</a>.</h2>
+<h2><a href="https://kylaksizov.ru/demo/7/index.php" target="_blank">DEMO</a>.</h2>
 
 ## Установка
 
